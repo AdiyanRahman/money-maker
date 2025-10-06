@@ -1,0 +1,1 @@
+If you are having a problem running the game in IntelliJ, please make sure to go to Run at the very top, select Edit Configurations, and set the working directory to the sprites folder.
